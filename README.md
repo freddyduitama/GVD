@@ -2,16 +2,16 @@
 
 # 1. Archivos con ejemplo básicos de SPARK
 
-## 1.1  Contador de palabras.          
+## 1.1.  Contador de palabras.          
 0.1.wordcount.ipynb                    
 
-## 1.2 Transformaciones y acciones básicas API no estructurado
+## 1.2. Transformaciones y acciones básicas API no estructurado
 0.2.Introduction-To-Spark.ipynb       
 
-## 1.3 Creación de Dataframes y operaciones básicas. 
+## 1.3. Creación de Dataframes y operaciones básicas. 
 0.3.dataframes-1.ipynb                 
 
-## 1.4 Más ejemplos de Dataframes y uso del SQL.
+## 1.4. Más ejemplos de Dataframes y uso del SQL.
 0_4_dataframes_2.ipynb                 
 
 ## Nota
