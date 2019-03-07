@@ -30,4 +30,4 @@ Data
 Use su cuenta Collaborative de google 
 
 1. Sign up su cuenta 
-2. suba los archivos y el directorio al directorio google drive de su cuenta en collaborative. 
+2. suba los archivos y el directorio Data al directorio google drive de su cuenta en collaborative. 
