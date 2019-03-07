@@ -1,5 +1,3 @@
-# GVD
-
 # Ejemplos para el curso de Gestión y procesamiento de GVD
 
 ## Archivos con ejemplo básicos de SPARK
