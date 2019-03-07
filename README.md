@@ -27,10 +27,8 @@ Data
 
 Use su cuenta Collaborative de google 
 
-1. Inicie sesión con su cuenta. [Acá](https://colab.research.google.com/notebooks/welcome.ipynb). (Use su usuario de google)
+1. Inicie sesión de Collaborative [aqui](https://colab.research.google.com/notebooks/welcome.ipynb). (Use su usuario google)
  
-2. Suba los archivosejemplo (.ipynb) y el directorio Data a la carpeta Colab Notebooks.
+2. Suba los archivosejemplo (.ipynb) y el directorio (Data) a la carpeta Colab Notebooks.
 
-    Colab Notebooks se adiciona a su  google drive cuando usted crea su cuenta en collaborative. 
-
-    [Ejemplo del drive](https://drive.google.com/drive/folders/1eRoXpae6k3CvkQkCCp5w-SuBESq0tUsc)
+   Colab Notebooks es una carpeta que se adiciona a su  google drive cuando se crea una cuenta en collaborative. [Ejemplo del drive](https://drive.google.com/drive/folders/1eRoXpae6k3CvkQkCCp5w-SuBESq0tUsc)
