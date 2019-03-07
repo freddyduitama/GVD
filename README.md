@@ -16,13 +16,14 @@
 ## Más ejemplos de Dataframes
 0_4_dataframes_2.ipynb                 
 
-Algunos ejemplos tomados del texto:   
+## Nota
+Algunos ejemplos son tomados del texto:   
 
 ![Spark: The Definitive Guide](https://images-na.ssl-images-amazon.com/images/I/51z7TzI-Y3L._SX379_BO1,204,203,200_.jpg)
 
-## Directorios de datos usados por los ejemplos 
-## Contiene ejemplos txt, json y  csv 
-  Data  
+## Directorios de datos usados por los ejemplos contiene archivos txt, json y  csv 
+
+Data  
   
 #  Cómo correr el código ?
 
