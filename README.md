@@ -15,9 +15,10 @@ Algunos ejemplos tomados del texto:
 ![Spark: The Definitive Guide](https://images-na.ssl-images-amazon.com/images/I/51z7TzI-Y3L._SX379_BO1,204,203,200_.jpg)
 
 ## Directorios de datos usados por los ejemplos 
- Data 
  
-#  cómo correr el código 
+  Data  Contiene ejemplos txt, json y  csv 
+  
+#  Cómo correr el código ?
 
 Use su cuenta Collaborative de google 
 
