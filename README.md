@@ -10,17 +10,19 @@
 ### Transformaciones y acciones básicas API no estructurado
 0.2.Introduction-To-Spark.ipynb       
 
-0.3.dataframes-1.ipynb                 # Creación de Dataframes 
+# Creación de Dataframes 
+0.3.dataframes-1.ipynb                 
 
-0_4_dataframes_2.ipynb                 # Más ejemplos de Dataframes
+# Más ejemplos de Dataframes
+0_4_dataframes_2.ipynb                 
 
 Algunos ejemplos tomados del texto:   
 
 ![Spark: The Definitive Guide](https://images-na.ssl-images-amazon.com/images/I/51z7TzI-Y3L._SX379_BO1,204,203,200_.jpg)
 
 ## Directorios de datos usados por los ejemplos 
- 
-  Data  Contiene ejemplos txt, json y  csv 
+### Contiene ejemplos txt, json y  csv 
+  Data  
   
 #  Cómo correr el código ?
 
