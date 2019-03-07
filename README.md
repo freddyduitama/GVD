@@ -19,7 +19,7 @@ Algunos ejemplos son tomados del texto:
 
 ![Spark: The Definitive Guide](https://images-na.ssl-images-amazon.com/images/I/51z7TzI-Y3L._SX379_BO1,204,203,200_.jpg)
 
-## Directorios de datos usados por los ejemplos contiene archivos txt, json y  csv 
+## Directorios de datos usados por los ejemplos.  Contiene archivos txt, json y  csv 
 
 Data  
   
