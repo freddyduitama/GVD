@@ -4,7 +4,8 @@
 
 ## 1.1.  Contador de palabras.          
 0.1.wordcount.ipynb  
-[Ejemplos con una explicación detallada la puede encontrar aqui] (http://www.mccarroll.net/blog/pyspark2/index.html)
+
+[Una explicación detallada la puede encontrar aqui] (http://www.mccarroll.net/blog/pyspark2/index.html)
 
 ## 1.2. Transformaciones y acciones básicas API no estructurado
 0.2.Introduction-To-Spark.ipynb       
