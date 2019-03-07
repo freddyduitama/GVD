@@ -1,17 +1,17 @@
 # Ejemplos para el curso de Gestión y procesamiento de GVD
 
-## Archivos con ejemplo básicos de SPARK
+## 1. Archivos con ejemplo básicos de SPARK
 
-## Contador de palabras.          
+## 1.1  Contador de palabras.          
 0.1.wordcount.ipynb                    
 
-## Transformaciones y acciones básicas API no estructurado
+## 1.2 Transformaciones y acciones básicas API no estructurado
 0.2.Introduction-To-Spark.ipynb       
 
-## Creación de Dataframes y operaciones básicas. 
+## 1.3 Creación de Dataframes y operaciones básicas. 
 0.3.dataframes-1.ipynb                 
 
-## Más ejemplos de Dataframes y uso del SQL.
+## 1.4 Más ejemplos de Dataframes y uso del SQL.
 0_4_dataframes_2.ipynb                 
 
 ## Nota
@@ -23,12 +23,12 @@ Algunos ejemplos son tomados del texto:
 
 Data  
   
-#  Cómo correr el código ?
+#  2. Cómo correr el código ?
 
 Use su cuenta Collaborative de google 
 
-1. Inicie sesión de Collaborative [aqui](https://colab.research.google.com/notebooks/welcome.ipynb). (Use su usuario google)
+2.1. Inicie sesión de Collaborative [aqui](https://colab.research.google.com/notebooks/welcome.ipynb). (Use su usuario google)
  
-2. Suba los archivosejemplo (.ipynb) y el directorio (Data) a la carpeta Colab Notebooks.
+2.2 Suba los archivosejemplo (.ipynb) y el directorio (Data) a la carpeta Colab Notebooks.
 
    Colab Notebooks es una carpeta que se adiciona a su  google drive cuando se crea una cuenta en collaborative. [Ejemplo del drive](https://drive.google.com/drive/folders/1eRoXpae6k3CvkQkCCp5w-SuBESq0tUsc)
