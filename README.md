@@ -21,7 +21,7 @@ Algunos ejemplos son tomados del texto:
 
 ## Directorios de datos usados por los ejemplos.  Contiene archivos txt, json y  csv 
 
-Data  
+[Data](https://drive.google.com/drive/folders/1mLUze3P2RQA3X07aYqHctnAVPBdHCNlJ)
   
 #  2. Cómo correr el código ?
 
