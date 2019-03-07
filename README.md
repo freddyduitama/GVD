@@ -4,7 +4,9 @@
 
 ## Archivos con ejemplo básicos de SPARK
 
-0.1.wordcount.ipynb                    # Contador de palabras
+# Contador de palabras
+0.1.wordcount.ipynb                    
+
 
 0.2.Introduction-To-Spark.ipynb        # Transformaciones y acciones básicas API no estructurado
 
