@@ -1,6 +1,6 @@
 # Ejemplos para el curso de Gestión y procesamiento de GVD
 
-## 1. Archivos con ejemplo básicos de SPARK
+# 1. Archivos con ejemplo básicos de SPARK
 
 ## 1.1  Contador de palabras.          
 0.1.wordcount.ipynb                    
