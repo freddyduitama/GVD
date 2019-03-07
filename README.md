@@ -1,5 +1,5 @@
 # GVD
-curso grandes volumenes de datos
+
 -Curso grandes volumenes de datos
 
 Archivos con ejemplo básicos de SPARK
@@ -11,3 +11,5 @@ Archivos con ejemplo básicos de SPARK
 0.3.dataframes-1.ipynb            Creación de Dataframes 
 
 Algunos ejemplos tomados del texto: Spark-The-Definitive-Guide desde: https://github.com/databricks/Spark-The-Definitive-Guide
+
+Dir Data contiene los dataset usados en los ejemplos
