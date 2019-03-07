@@ -1,15 +1,15 @@
 # GVD
 
--Curso grandes volumenes de datos
+Curso grandes volumenes de datos
 
-Archivos con ejemplo b√°sicos de SPARK
+Archivos con ejemplo b·sicos de SPARK
 
 0.1.wordcount.ipynb                   Contador de palabras
 
-0.2.Introduction-To-Spark.ipynb       Transformaciones y acciones b√°sica. API no estructurado
+0.2.Introduction-To-Spark.ipynb       Transformaciones y acciones b·sicas API no estructurado
 
-0.3.dataframes-1.ipynb                Creaci√≥n de Dataframes 
+0.3.dataframes-1.ipynb                CreaciÛn de Dataframes 
 
 Algunos ejemplos tomados del texto:   Spark-The-Definitive-Guide desde: https://github.com/databricks/Spark-The-Definitive-Guide
 
-Dir Data contiene los dataset usados en los ejemplos
+Directorio Data contiene los dataset usados en los ejemplos
