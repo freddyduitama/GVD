@@ -4,10 +4,10 @@
 
 ## Archivos con ejemplo básicos de SPARK
 
-### Contador de palabras
+## Contador de palabras
 0.1.wordcount.ipynb                    
 
-### Transformaciones y acciones básicas API no estructurado
+## Transformaciones y acciones básicas API no estructurado
 0.2.Introduction-To-Spark.ipynb       
 
 ## Creación de Dataframes 
