@@ -1,15 +1,25 @@
 # GVD
 
-Curso grandes volumenes de datos
+# Ejemplos para el curso de Gesti贸n y procesamiento de GVD
 
-Archivos con ejemplo b醩icos de SPARK
+## Archivos con ejemplo b谩sicos de SPARK
 
 0.1.wordcount.ipynb                   Contador de palabras
 
-0.2.Introduction-To-Spark.ipynb       Transformaciones y acciones b醩icas API no estructurado
+0.2.Introduction-To-Spark.ipynb       Transformaciones y acciones b谩sicas API no estructurado
 
-0.3.dataframes-1.ipynb                Creaci髇 de Dataframes 
+0.3.dataframes-1.ipynb                Creaci贸n de Dataframes 
 
-Algunos ejemplos tomados del texto:   Spark-The-Definitive-Guide desde: https://github.com/databricks/Spark-The-Definitive-Guide
+Algunos ejemplos tomados del texto:   
 
-Directorio Data contiene los dataset usados en los ejemplos
+![Spark: The Definitive Guide](https://images-na.ssl-images-amazon.com/images/I/51z7TzI-Y3L._SX379_BO1,204,203,200_.jpg)
+
+## Directorios de datos usados por los ejemplos 
+ Data 
+ 
+#  c贸mo correr el c贸digo 
+
+Use su cuenta Collaborative de google 
+
+1. Sign up su cuenta 
+2. suba los archivos y el directorio al directorio google drive de su cuenta en collaborative. 
