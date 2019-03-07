@@ -27,6 +27,9 @@ Data
 
 Use su cuenta Collaborative de google 
 
-1. Sign up su cuenta 
+1. Sign up su cuenta  [Acá](https://colab.research.google.com/notebooks/welcome.ipynb)
+ 
+
 2. suba los archivos y el directorio Data al directorio google drive de su cuenta en collaborative. 
+
     [Ejemplo del drive](https://drive.google.com/drive/folders/1eRoXpae6k3CvkQkCCp5w-SuBESq0tUsc)
