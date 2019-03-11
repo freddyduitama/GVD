@@ -5,7 +5,7 @@
 ## 1.1.  Contador de palabras.          
 0.1.wordcount.ipynb  
 
-[Una explicación detallada la puede encontrar aqui](http://www.mccarroll.net/blog/pyspark2/index.html)
+Una explicación detallada la puede encontrar [aqui](http://www.mccarroll.net/blog/pyspark2/index.html)
 
 ## 1.2. Transformaciones y acciones básicas API no estructurado
 0.2.Introduction-To-Spark.ipynb       
@@ -18,7 +18,8 @@
 
 ## 1.5. Ejemplos del optimizador basado en costos.
 en construcción. 
-[Para conocer como trabaja el optimizador (Catalysis) basado en costos aquí](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
+
+Para conocer como trabaja el optimizador (Catalysis) basado en costos [aquí](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
 
 ## Nota
 Algunos ejemplos son tomados del texto:   
