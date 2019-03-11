@@ -18,7 +18,7 @@
 
 ## 1.5. Ejemplos del optimizador basado en costos.
 en construcción. 
-Para concoer como trabaja el optimizador (Catalysis) basado en costos [aqui] (https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
+[Para conocer como trabaja el optimizador (Catalysis) basado en costos aqui] (https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
 
 ## Nota
 Algunos ejemplos son tomados del texto:   
