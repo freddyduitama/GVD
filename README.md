@@ -14,7 +14,11 @@
 0.3.dataframes-1.ipynb                 
 
 ## 1.4. Más ejemplos de Dataframes y uso del SQL.
-0_4_dataframes_2.ipynb                 
+0_4_dataframes_2.ipynb
+
+## 1.5. Ejemplos del optimizador basado en costos.
+en construcción. 
+Para concoer como trabaja el optimizador (Catalysis) basado en costos [aqui] (https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
 
 ## Nota
 Algunos ejemplos son tomados del texto:   
