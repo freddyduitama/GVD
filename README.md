@@ -21,6 +21,9 @@ En construcción.
 
 Para conocer como trabaja el optimizador (Catalysis) basado en costos [aquí](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
 
+## 1.6. Ejemplos de Locality Sensitive Hashing
+En construcción. 
+
 ## Nota
 Algunos ejemplos son tomados del texto:   
 
