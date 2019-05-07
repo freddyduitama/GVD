@@ -3,18 +3,18 @@
 # 1. Archivos con ejemplo básicos de SPARK
 
 ## 1.1.  Contador de palabras.          
-0.1.wordcount.ipynb  
+0_1_wordcount.ipynb  
 
 Una explicación detallada la puede encontrar [aqui](http://www.mccarroll.net/blog/pyspark2/index.html)
 
 ## 1.2. Transformaciones y acciones básicas API no estructurado
-0.2.Introduction-To-Spark.ipynb       
+0_2_Introduction_To_Spark.ipynb       
 
 ## 1.3. Creación de Dataframes y operaciones básicas. 
-0.3.dataframes-1.ipynb                 
+0_3_dataframes_1.ipynb                 
 
 ## 1.4. Más ejemplos de Dataframes y uso del SQL.
-0.4.dataframes_2.ipynb
+0_4_dataframes_2.ipynb
 
 ## 1.5. Ejemplos del optimizador basado en costos.
 En construcción. 
@@ -25,7 +25,7 @@ Para conocer como trabaja el optimizador (Catalysis) basado en costos [aquí](ht
 En construcción. 
 
 ## 1.7. Ejemplos de PCA y SVD - 
-0.7.PCA-SVD.ipynb
+0_7_PCA_SVD.ipynb
 
 ## Nota
 Algunos ejemplos son tomados del texto:   
