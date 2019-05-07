@@ -14,7 +14,7 @@ Una explicación detallada la puede encontrar [aqui](http://www.mccarroll.net/bl
 0.3.dataframes-1.ipynb                 
 
 ## 1.4. Más ejemplos de Dataframes y uso del SQL.
-0_4_dataframes_2.ipynb
+0.4.dataframes_2.ipynb
 
 ## 1.5. Ejemplos del optimizador basado en costos.
 En construcción. 
