@@ -24,6 +24,9 @@ Para conocer como trabaja el optimizador (Catalysis) basado en costos [aquí](ht
 ## 1.6. Ejemplos de Locality Sensitive Hashing
 En construcción. 
 
+## 1.7. Ejemplos de PCA y SVD - 
+0.7.PCA-SVD.ipynb
+
 ## Nota
 Algunos ejemplos son tomados del texto:   
 
